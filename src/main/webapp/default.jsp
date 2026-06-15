@@ -28,7 +28,7 @@
   <body>
     <tagfiles:header />
     <div id="hate" class="container snakes snake-hater">
-      <h1 class="cover-heading"> WE are Outecratures the Project Succesfully </h1>
+      <h1 class="cover-heading"> HEllo we are outcreatures </h1>
       <p class="lead">A safety resource for snake haters.</p>
       <!--Intro -->
       <h2>Do you or a loved one hate snakes?</h2>
